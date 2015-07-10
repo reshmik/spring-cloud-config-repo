@@ -38,5 +38,5 @@ lattice:
     host: receptor.52.5.229.248.xip.io
 services:
   rabbitmq:
-    host: 10.0.1.207
+    host: localhost
     port: 61111
